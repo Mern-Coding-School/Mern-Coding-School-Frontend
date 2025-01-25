@@ -75,11 +75,11 @@ Please follow our [Code of Conduct](#code-of-conduct) to maintain a respectful a
    ```
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    # or
    yarn start
    ```
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+5. Open [http://localhost:3000](http://localhost:5173) in your browser to view the application.
 
 ---
 
